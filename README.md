@@ -63,9 +63,9 @@ Error handling for API requests can be further improved to provide more meaningf
 Additional features such as hourly or extended forecasts could be added to enhance the app's functionality.
 Feel free to contribute to the project by submitting pull requests or reporting issues if you encounter any problems.
 
-![Screenshot 1](../public/assets/images/Screenshot1.png)
-![Screenshot 2](../public/assets/images/Screenshot2.png)
-![Screenshot 3](../public/assets/images/Screenshot3.png)
-![Screenshot 4](../public/assets/images/Screenshot4.png)
-![Screenshot 5](../public/assets/images/Screenshot5.png)
-![Screenshot 6](../public/assets/images/Screenshot6.png)
+![Screenshot 1](./public/assets/images/Screenshot%201.png)
+![Screenshot 2](./public/assets/images/Screenshot%202.png)
+![Screenshot 3](./public/assets/images/Screenshot%203.png)
+![Screenshot 4](./public/assets/images/Screenshot%204.png)
+![Screenshot 5](./public/assets/images/Screenshot%206.png)
+![Screenshot 6](./public/assets/images/Screenshot%207.png)
