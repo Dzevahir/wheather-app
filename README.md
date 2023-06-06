@@ -62,3 +62,6 @@ The app currently supports only one weather service API. To switch to a differen
 Error handling for API requests can be further improved to provide more meaningful error messages to the user.
 Additional features such as hourly or extended forecasts could be added to enhance the app's functionality.
 Feel free to contribute to the project by submitting pull requests or reporting issues if you encounter any problems.
+
+![Screenshot 1](<url(../public/assets/images/sunrise.jpg)>)
+![Screenshot 2](url/to/screenshot2.png)

@@ -118,8 +118,10 @@ const App = () => {
         }
 
         .add-location-button {
+          position: absolute;
         margin-left: -50px;
         margin-bottom: 685px;
+        margin-top: 20px;
           
 
          
